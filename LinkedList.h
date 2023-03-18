@@ -21,4 +21,4 @@ public:
 };
 
 
-#endif //ASDAS_LINKEDLIST_H
+#endif

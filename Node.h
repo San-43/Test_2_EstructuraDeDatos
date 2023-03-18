@@ -14,4 +14,4 @@ public:
 };
 
 
-#endif //ASDAS_NODE_H
+#endif
