@@ -1,7 +1,3 @@
-//
-// Created by alex on 8/03/23.
-//
-
 #ifndef ASDAS_LINKEDLIST_H
 #define ASDAS_LINKEDLIST_H
 
